@@ -21,6 +21,7 @@ Automatically deposits trade goods into a shared vault accessible by all charact
 - Type `/abs`
 - Press Open All Bags Keybind (default `Shift-B`); the vault opens alongside your bags
 
+<img width="692" height="641" alt="mod-abyssal-storage" src="https://github.com/user-attachments/assets/803f2527-a286-4335-9ad9-487205ae8392" />
 
 ## Commands
 
